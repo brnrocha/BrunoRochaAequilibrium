@@ -1,0 +1,33 @@
+[{
+    "Autobots":[
+        {
+        "id": 1,
+        "Allegiance": "Autobot",
+        "Name": "BLUESTREAK",
+        "Strength": 6,
+        "Intelligence": 6,
+        "Speed": 7,
+        "Endurance": 9,
+        "Rank": 5,
+        "Courage" : 2,
+        "FirePower" : 9,
+        "Skill": 7
+        }
+        ],
+        "Decepticons":[
+            {
+            "id": 1,
+            "Allegiance": "Decepticon ",
+            "Name": "SOUNDWAVE",
+            "Strength": 8,
+            "Intelligence": 9,
+            "Speed": 2,
+            "Endurance": 6,
+            "Rank": 8,
+            "Courage" : 8,
+            "FirePower" : 6,
+            "Skill": 10 
+            }
+            ],
+        "Success": true
+}]

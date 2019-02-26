@@ -1,0 +1,30 @@
+Objetivo: Batalha de transformers
+
+- Escolher entre Transformer ou Autobots
+- criar json para acomodar todos esses dados;
+- Listar status (forca, inteligencia ...) - 0 a 10; 
+- a soma dos pontos eh (forca + inteligencia + speed + endurance + firepower)
+- voce escolhe qual transformer quer
+- mostra lista de poderes
+- mostra quantas batalhas
+- mostra quem ganhou
+- mostra quem sobreviveu
+- fazer um sort para montar as batalhas (mais fortes contra mais fortes)
+Quem perde?
+- quem tiver menor ou igual a 4 de coragem e 3 forca o outro oponente foge
+- Se nao Se um dos litadores tiver 3 ou mais pontos de skill ganha independente dos outros elementos
+- O ganhador eh o que tiver o maior valor comparado
+-Se empatar os 2 transformers sao considerados destruidos
+- Se um time tiver 2 transformers e outro time 1 soh havera 1 luta e a regra segue
+- QUem eliminar mais oponentes ganha
+-SE ALGUEM TIVER NO TIME OPTIMUS PRIME OU PREDARKING (SUPERTRUNFO)
+-SE TIVER UM CONTRA O OUTRO, OS 2 SAO DESTUIDOS
+
+
+
+
+
+
+
+ 
+

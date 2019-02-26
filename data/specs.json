@@ -1,0 +1,276 @@
+{
+    "Transformers":[
+        {
+            "Autobots" : "Autobots",
+            "Decepticon":"Decepticon"
+        }
+    ],
+
+    "Autobots":[
+        {
+            "id": 1,
+            "Allegiance": "Autobot",
+            "Name": "OPTIMUS PRIME",
+            "Strength": 10,
+            "Intelligence": 10,
+            "Speed": 8,
+            "Endurance": 10,
+            "Rank": 10,
+            "Courage" : 10,
+            "FirePower" : 8,
+            "Skill": 10
+        },
+        {
+        "id": 2,
+        "Allegiance": "Autobot",
+        "Name": "BLUESTREAK",
+        "Strength": 6,
+        "Intelligence": 6,
+        "Speed": 7,
+        "Endurance": 9,
+        "Rank": 5,
+        "Courage" : 2,
+        "FirePower" : 9,
+        "Skill": 7
+        },
+        {
+            "id": 3,
+            "Allegiance": "Autobot",
+            "Name": "HUBCAP",
+            "Strength": 3,
+            "Intelligence": 9,
+            "Speed": 4,
+            "Endurance": 3,
+            "Rank": 6,
+            "Courage" : 8,
+            "FirePower" : 1,
+            "Skill": 9
+            },
+        {
+            "id": 4,
+            "Allegiance": "Autobot",
+            "Name": "BUMBLEBEE",
+            "Strength": 2,
+            "Intelligence": 8,
+            "Speed": 4,
+            "Endurance": 7,
+            "Rank": 7,
+            "Courage" : 10,
+            "FirePower" : 1,
+            "Skill": 7
+        },
+        {
+            "id": 5,
+            "Allegiance": "Autobot",
+            "Name": "DEFENSOR",
+            "Strength": 10,
+            "Intelligence": 7,
+            "Speed": 2,
+            "Endurance": 9,
+            "Rank": 6,
+            "Courage" : 10,
+            "FirePower" : 8,
+            "Skill": 8
+        },
+        {
+            "id": 6,
+            "Allegiance": "Autobot",
+            "Name": "SANDSTORM",
+            "Strength": 7,
+            "Intelligence": 9,
+            "Speed": 6,
+            "Endurance": 7,
+            "Rank": 6,
+            "Courage" : 10,
+            "FirePower" : 6,
+            "Skill": 9
+        },
+        {
+            "id": 7,
+            "Allegiance": "Autobot",
+            "Name": "TOPSPIN",
+            "Strength": 6,
+            "Intelligence": 6,
+            "Speed": 8,
+            "Endurance": 5,
+            "Rank": 6,
+            "Courage" : 10,
+            "FirePower" : 9,
+            "Skill": 8
+        },
+        {
+            "id": 8,
+            "Allegiance": "Autobot",
+            "Name": "TAILGATE",
+            "Strength": 5,
+            "Intelligence": 5,
+            "Speed": 6,
+            "Endurance": 6,
+            "Rank": 6,
+            "Courage" : 7,
+            "FirePower" : 2,
+            "Skill": 7
+        },
+        {
+            "id": 9,
+            "Allegiance": "Autobot",
+            "Name": "HUBCAP",
+            "Strength": 3,
+            "Intelligence": 9,
+            "Speed": 4,
+            "Endurance": 3,
+            "Rank": 6,
+            "Courage" : 8,
+            "FirePower" : 1,
+            "Skill": 9
+        },
+        {
+            "id": 10,
+            "Allegiance": "Autobot",
+            "Name": "HOIST",
+            "Strength": 8,
+            "Intelligence": 6,
+            "Speed": 3,
+            "Endurance": 7,
+            "Rank": 4,
+            "Courage" : 8,
+            "FirePower" : 6,
+            "Skill": 9
+        }
+    ],
+        "Decepticons":[
+            {
+                "id": 1,
+                "Allegiance": "Decepticon",
+                "Name": "PREDAKING",
+                "Strength": 10,
+                "Intelligence":49,
+                "Speed": 0,
+                "Endurance": 8,
+                "Rank": 7,
+                "Courage" : 9,
+                "FirePower" : 9,
+                "Skill": 8
+            },
+            {
+            "id": 2,
+            "Allegiance": "Decepticon",
+            "Name": "SOUNDWAVE",
+            "Strength": 8,
+            "Intelligence": 9,
+            "Speed": 2,
+            "Endurance": 6,
+            "Rank": 8,
+            "Courage" : 8,
+            "FirePower" : 6,
+            "Skill": 10 
+            },
+            {
+                "id": 3,
+                "Allegiance": "Decepticon",
+                "Name": "RATBAT",
+                "Strength": 3,
+                "Intelligence": 9,
+                "Speed": 4,
+                "Endurance": 3,
+                "Rank": 6,
+                "Courage" : 7,
+                "FirePower" : 2,
+                "Skill": 9 
+                },
+            {
+                "id": 4,
+                "Allegiance": "Decepticon",
+                "Name": "SCAVENGER",
+                "Strength": 7,
+                "Intelligence": 2,
+                "Speed": 3,
+                "Endurance": 6,
+                "Rank": 4,
+                "Courage" : 9,
+                "FirePower" : 6,
+                "Skill": 7
+            },
+            {
+                "id": 5,
+                "Allegiance": "Decepticon",
+                "Name": "KICKBACK",
+                "Strength": 3,
+                "Intelligence": 9,
+                "Speed": 4,
+                "Endurance": 4,
+                "Rank": 7,
+                "Courage" : 6,
+                "FirePower" : 5,
+                "Skill": 8
+            },
+            {
+                "id": 6,
+                "Allegiance": "Decepticon",
+                "Name": "RATBAT",
+                "Strength": 3,
+                "Intelligence": 9,
+                "Speed": 4,
+                "Endurance": 3,
+                "Rank": 6,
+                "Courage" : 7,
+                "FirePower" : 2,
+                "Skill": 9
+            },
+            {
+                "id": 7,
+                "Allegiance": "Decepticon",
+                "Name": "MEGATRON",
+                "Strength": 10,
+                "Intelligence": 10,
+                "Speed": 4,
+                "Endurance": 8,
+                "Rank": 10,
+                "Courage" : 9,
+                "FirePower" : 10,
+                "Skill": 9
+            },
+            {
+                "id": 8,
+                "Allegiance": "Decepticon",
+                "Name": "GALVATRON",
+                "Strength": 10,
+                "Intelligence": 9,
+                "Speed": 9,
+                "Endurance": 10,
+                "Rank": 9,
+                "Courage" : 9,
+                "FirePower" : 9,
+                "Skill": 10
+            },
+            {
+                "id": 9,
+                "Allegiance": "Decepticon",
+                "Name": "SIXSHOT",
+                "Strength": 10,
+                "Intelligence": 9,
+                "Speed": 4,
+                "Endurance": 9,
+                "Rank": 7,
+                "Courage" : 8,
+                "FirePower" : 9,
+                "Skill": 8
+            },
+            {
+                "id": 10,
+                "Allegiance": "Decepticon",
+                "Name": "VENOM",
+                "Strength": 3,
+                "Intelligence": 9,
+                "Speed": 3,
+                "Endurance": 6,
+                "Rank": 8,
+                "Courage" : 9,
+                "FirePower" : 8,
+                "Skill": 8
+            }
+        ],
+
+
+        "Success": true
+}

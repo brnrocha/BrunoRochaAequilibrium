@@ -1,0 +1,75 @@
+body{
+    color: #fff;
+    text-align: center;
+    background: url("../img/background.png") no-repeat;
+    background-color: black;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    padding: 30px;
+}
+
+h1{
+    font-size: 1.5em;
+    margin: 40px 0 0px 0;
+}
+
+h2{
+    font-size: 1.2em;
+    margin: 20px auto;
+}
+
+
+.logo{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.logo img{
+    max-width: 300px;
+}
+
+#btnFight1{
+    background: #ff7e00;
+    border-radius: 5px;
+    padding: 5px 30px;
+    color: #ffffff;
+    font-size: 2em;
+    border: 0;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+.fighters ul{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    list-style: none;
+}
+
+.auto-list, .decept-list{
+    display: inline-block;
+    float: left;
+    margin: 30px 0;
+}
+
+.fighters{
+    margin: 20px auto;
+    float: left;
+    display: block;
+}
+
+.results{
+    display:none;
+    background: black;
+    float: left;
+    padding: 30px;
+    line-height: 40px;
+    border-top: 1px #fff solid;
+}
+
+#scoreboard{
+    background: #666;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px auto;
+}
